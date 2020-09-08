@@ -1,0 +1,5 @@
+D:\projects\Patterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+D:\projects\Patterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+D:\projects\Patterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojAssemblyReference.cache
+D:\projects\Patterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+D:\projects\Patterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
