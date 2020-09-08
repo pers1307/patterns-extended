@@ -1,0 +1,5 @@
+D:\projects\Patterns\DoubleDispatch\bin\Debug\DoubleDispatch.exe
+D:\projects\Patterns\DoubleDispatch\bin\Debug\DoubleDispatch.pdb
+D:\projects\Patterns\DoubleDispatch\obj\Debug\DoubleDispatch.csprojAssemblyReference.cache
+D:\projects\Patterns\DoubleDispatch\obj\Debug\DoubleDispatch.exe
+D:\projects\Patterns\DoubleDispatch\obj\Debug\DoubleDispatch.pdb
