@@ -1,0 +1,5 @@
+D:\projects\Patterns\Composite\bin\Debug\Composite.exe
+D:\projects\Patterns\Composite\bin\Debug\Composite.pdb
+D:\projects\Patterns\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\projects\Patterns\Composite\obj\Debug\Composite.exe
+D:\projects\Patterns\Composite\obj\Debug\Composite.pdb
